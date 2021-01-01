@@ -1,0 +1,10 @@
+{
+	"platforms": [
+		"*"
+	],
+	"description": "A Sublime text 3 basic syntax highlighter for TypeScriptLang development.",
+	"dependencies": [],
+	"sublime_text": "*",
+	"url": "https://github.com/snxx-lppxx/typescriptlang-sublime",
+	"version": "1.0"
+}
