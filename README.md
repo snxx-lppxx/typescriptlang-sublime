@@ -1,3 +1,5 @@
+<a href="https://github.com/snxx/typescriptlang-sublime" target="_blank"><img src="Color-Highlighter/img/logo.png" align="center" alt="typescriptlang & node Logo"></a>
+
 # TypeScript Syntax Highlight
 
 ## Table of Contents
